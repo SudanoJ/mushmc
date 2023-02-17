@@ -1,0 +1,20 @@
+{
+  "name": "mushmc",
+  "version": "1.0.0",
+  "description": "Pacote utilitário para recuperar dados de jogadores.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SudanoJ/mushmc.git"
+  },
+  "keywords": ["mushmc", "minecraft"],
+  "author": "sudano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SudanoJ/mushmc/issues"
+  },
+  "homepage": "https://github.com/SudanoJ/mushmc#readme"
+}
