@@ -1,0 +1,1 @@
+# API cuja função é resgatar dados da API pública do MUSHMC.
